@@ -1,4 +1,4 @@
-# Kitter
+# Kitter 
 
 Kitter is a social media app built using Android Studio, Kotlin, and Firebase.
 
